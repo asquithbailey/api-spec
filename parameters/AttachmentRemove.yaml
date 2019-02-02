@@ -4,4 +4,4 @@ required: true
 description: |
   Body for a removeAttachment request.
 schema:
-  $ref: ./definitions/AttachmentRemove.yaml
+  $ref: ../definitions/AttachmentRemove.yaml

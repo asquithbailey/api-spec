@@ -8,4 +8,4 @@ description: >
   instructions, visit our [official
   docs](https://docs.smooch.io/rest/#create-integration)
 schema:
-  $ref: ./definitions/IntegrationUpdate.yaml
+  $ref: ../definitions/IntegrationUpdate.yaml

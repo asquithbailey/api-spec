@@ -10,4 +10,4 @@ description: >
   [carousel](https://docs.smooch.io/rest#carousel-message),
   [list](https://docs.smooch.io/rest#list-message))
 schema:
-  $ref: ./definitions/MessagePost.yaml
+  $ref: ../definitions/MessagePost.yaml

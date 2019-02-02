@@ -4,4 +4,4 @@ required: true
 description: |
   Body for an updateWebhook request.
 schema:
-  $ref: ./definitions/WebhookUpdate.yaml
+  $ref: ../definitions/WebhookUpdate.yaml

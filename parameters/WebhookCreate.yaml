@@ -4,4 +4,4 @@ required: true
 description: |
   Body for a createWebhook request.
 schema:
-  $ref: ./definitions/WebhookCreate.yaml
+  $ref: ../definitions/WebhookCreate.yaml

@@ -4,4 +4,4 @@ required: true
 description: |
   Body for an updateTemplate request.
 schema:
-  $ref: ./definitions/TemplateUpdate.yaml
+  $ref: ../definitions/TemplateUpdate.yaml

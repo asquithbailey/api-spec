@@ -3,4 +3,4 @@ in: body
 required: true
 description: Body for a updateMenu request.
 schema:
-  $ref: ./definitions/Menu.yaml
+  $ref: ../definitions/Menu.yaml

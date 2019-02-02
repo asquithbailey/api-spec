@@ -4,4 +4,4 @@ required: true
 description: |
   Body for a createTemplate request.
 schema:
-  $ref: ./definitions/TemplateCreate.yaml
+  $ref: ../definitions/TemplateCreate.yaml
